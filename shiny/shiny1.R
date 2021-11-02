@@ -1,4 +1,4 @@
-usethis::use_git()
+usethis::use_github()
 setwd("../shiny/")
 library(shiny)
 
