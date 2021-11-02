@@ -1,0 +1,13 @@
+name: shiny
+title: shiny
+username:
+account: eduardo-osawa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5024921
+bundleId: 5203137
+url: https://eduardo-osawa.shinyapps.io/shiny/
+when: 1635863649.99999
+lastSyncTime: 1635863650
+asMultiple: FALSE
+asStatic: FALSE
