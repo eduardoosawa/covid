@@ -1,11 +1,9 @@
-usethis::use_github()
-setwd("../shiny/")
 library(shiny)
 
 library(tidyverse)
 library(scales)
 
-covid <- readRDS("data/covid.rds")
+covid <- readRDS("covid.rds")
 
 ui <- navbarPage(
   title = "Gráficos COVID",
