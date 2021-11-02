@@ -1,3 +1,5 @@
+usethis::use_git()
+setwd("../shiny/")
 library(shiny)
 
 library(tidyverse)
